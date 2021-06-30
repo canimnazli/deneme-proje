@@ -1,1 +1,2 @@
-bu deneme projesini youtube videyosu için hazırladım
+bu deneme projesini youtube videyosu için hazırladım.
+buraya da main branch değişikliği yaptım.
