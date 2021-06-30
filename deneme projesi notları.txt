@@ -1,2 +1,6 @@
-bu deneme projesini youtube videyosu için hazırladım.
 buraya da main branch değişikliği yaptım.
+bu deneme projesini youtube videyosu için hazırladım.
+
+bu notlara yeni not ekledim, bunu yeni branch olarak kayıt edelim.
+bu sefer yeni notları başka branch yapmadık.
+
